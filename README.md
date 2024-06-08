@@ -1,7 +1,9 @@
 # Cinema-Management-System-DBMS
-# Cinema Management System made with MySql and Qt Designer.
+ Cinema Management System made with MySql and Qt Designer.
 # Overview
 The Cinema Management System is a comprehensive database project designed to streamline and enhance the operations of a cinema. The system incorporates two primary interfaces: one tailored for customers and another for cinema staff.
+
+
 Key features of the customer interface include:
 # Movie Listings: Detailed information about currently screening movies, including showtimes, ratings, genres, and synopses.
 # Real-time Seat Availability: Dynamic visualization of available seats in various screening rooms, allowing customers to choose their preferred seating.
